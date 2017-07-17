@@ -1,0 +1,17 @@
+<?php
+
+namespace Openmarco\Seriously\std;
+
+/**@var array $attr */
+
+use Openmarco\Seriously\Control\Control;
+
+?>
+
+<select<?php Control::attributes($attr); ?> data-om-cc-select="true" data-minimum-results-for-search="10">
+	<?php foreach ((array)$attr['choices'] as $value => $label) : ?>
+		<option value="<?php echo esc_attr($value); ?>"<?php selected($attr[ATTR_VALUE], $value); ?>>
+			<?php echo esc_html($label); ?>
+		</option>
+	<?php endforeach ?>
+</select>

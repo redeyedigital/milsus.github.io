@@ -1,0 +1,1570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seriously 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-27 15:01+0000\n"
+"PO-Revision-Date: 2016-12-27 15:01+0000\n"
+"Last-Translator: Openmarco\n"
+"Language: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"MIME-Version: 1.0\n"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: search.php:26
+msgid "Sorry, no results for"
+msgstr ""
+
+#: search.php:28
+msgid "Search results for"
+msgstr ""
+
+#: search.php:41
+msgid "No title"
+msgstr ""
+
+#: config\customizer.php:12
+#: config\meta.php:18
+msgid "Built-in header"
+msgstr ""
+
+#: config\customizer.php:13
+#: config\meta.php:19
+msgid "Invisible header"
+msgstr ""
+
+#: config\customizer.php:14
+#: config\meta.php:20
+msgid "No header"
+msgstr ""
+
+#: config\customizer.php:18
+#: config\meta.php:25
+msgid "Built-in widgetized footer"
+msgstr ""
+
+#: config\customizer.php:19
+#: config\meta.php:26
+msgid "No footer"
+msgstr ""
+
+#: config\customizer.php:25
+msgid "General Menu"
+msgstr ""
+
+#: config\customizer.php:26
+#: config\customizer.php:100
+#: config\customizer.php:254
+#: config\customizer.php:371
+#: config\customizer.php:421
+#: config\customizer.php:461
+#: config\customizer.php:488
+#: config\customizer.php:670
+#: config\customizer.php:700
+#: config\customizer.php:766
+#: config\customizer.php:777
+#: config\customizer.php:804
+#: config\customizer.php:841
+#: config\meta.php:48
+#: config\meta.php:88
+#: config\meta.php:240
+msgid "Background color"
+msgstr ""
+
+#: config\customizer.php:29
+#: config\customizer.php:103
+#: config\customizer.php:257
+#: config\customizer.php:464
+#: config\customizer.php:491
+#: config\customizer.php:767
+#: config\customizer.php:778
+#: config\meta.php:51
+#: config\meta.php:91
+#: config\meta.php:243
+msgid "Border color"
+msgstr ""
+
+#: config\customizer.php:32
+#: config\customizer.php:106
+#: config\customizer.php:260
+#: config\customizer.php:731
+#: config\meta.php:54
+#: config\meta.php:94
+#: config\meta.php:246
+msgid "Border width, px"
+msgstr ""
+
+#: config\customizer.php:36
+#: config\customizer.php:110
+#: config\customizer.php:264
+#: config\customizer.php:768
+#: config\customizer.php:779
+#: config\meta.php:58
+#: config\meta.php:98
+#: config\meta.php:250
+msgid "Shadow color"
+msgstr ""
+
+#: config\customizer.php:39
+#: config\customizer.php:113
+#: config\customizer.php:267
+#: config\customizer.php:747
+#: config\meta.php:61
+#: config\meta.php:101
+#: config\meta.php:253
+msgid "Shadow blur, px"
+msgstr ""
+
+#: config\customizer.php:44
+#: config\customizer.php:272
+msgid "Default logo image"
+msgstr ""
+
+#: config\customizer.php:45
+#: config\customizer.php:118
+#: config\customizer.php:273
+#: config\meta.php:66
+#: config\meta.php:106
+#: config\meta.php:258
+msgid "Logo image height, px"
+msgstr ""
+
+#: config\customizer.php:49
+#: config\customizer.php:277
+msgid "Logo text"
+msgstr ""
+
+#: config\customizer.php:50
+#: config\customizer.php:278
+msgid "Use Site title as logo text instead"
+msgstr ""
+
+#: config\customizer.php:51
+#: config\customizer.php:279
+msgid "Logo text left margin, px"
+msgstr ""
+
+#: config\customizer.php:55
+msgid "Logo right margin, px"
+msgstr ""
+
+#: config\customizer.php:60
+#: config\customizer.php:123
+#: config\customizer.php:284
+#: config\meta.php:70
+#: config\meta.php:111
+#: config\meta.php:262
+msgid "Bar top/bottom padding, px"
+msgstr ""
+
+#: config\customizer.php:64
+#: config\meta.php:74
+msgid "Layout"
+msgstr ""
+
+#: config\customizer.php:66
+#: config\customizer.php:574
+#: config\meta.php:77
+msgid "Fixed"
+msgstr ""
+
+#: config\customizer.php:67
+#: config\customizer.php:575
+#: config\meta.php:78
+msgid "Fluid"
+msgstr ""
+
+#: config\customizer.php:70
+#: config\customizer.php:288
+#: config\meta.php:81
+#: config\meta.php:266
+msgid "Bar overlay"
+msgstr ""
+
+#: config\customizer.php:72
+msgid "Space between menu items, px"
+msgstr ""
+
+#: config\customizer.php:77
+msgid "Bar button border width, px"
+msgstr ""
+
+#: config\customizer.php:81
+msgid "Bar button border radius, px"
+msgstr ""
+
+#: config\customizer.php:85
+msgid "Submenu border radius, px"
+msgstr ""
+
+#: config\customizer.php:90
+msgid "Submenu top margin, px"
+msgstr ""
+
+#: config\customizer.php:95
+#: config\meta.php:83
+msgid "Hide navigation bar"
+msgstr ""
+
+#: config\customizer.php:97
+msgid "Sticky Menu"
+msgstr ""
+
+#: config\customizer.php:98
+#: config\meta.php:86
+msgid "Use sticky menu"
+msgstr ""
+
+#: config\customizer.php:129
+#: config\customizer.php:313
+#: config\customizer.php:402
+#: config\customizer.php:524
+#: config\customizer.php:579
+#: config\customizer.php:630
+#: config\customizer.php:669
+#: config\customizer.php:765
+#: config\customizer.php:818
+#: config\customizer.php:855
+msgid "Light Scheme"
+msgstr ""
+
+#: config\customizer.php:130
+#: config\customizer.php:192
+#: config\customizer.php:314
+#: config\customizer.php:338
+msgid "Logo image"
+msgstr ""
+
+#: config\customizer.php:131
+#: config\customizer.php:193
+#: config\customizer.php:315
+#: config\customizer.php:339
+#: config\meta.php:118
+#: config\meta.php:179
+#: config\meta.php:277
+#: config\meta.php:300
+msgid "Logo text color"
+msgstr ""
+
+#: config\customizer.php:134
+#: config\customizer.php:196
+#: config\meta.php:121
+#: config\meta.php:182
+msgid "Logo hover text color"
+msgstr ""
+
+#: config\customizer.php:138
+#: config\customizer.php:200
+#: config\customizer.php:324
+#: config\customizer.php:348
+#: config\meta.php:125
+#: config\meta.php:186
+#: config\meta.php:286
+#: config\meta.php:309
+msgid "Menu item color"
+msgstr ""
+
+#: config\customizer.php:141
+#: config\customizer.php:203
+#: config\meta.php:128
+#: config\meta.php:189
+msgid "Menu hover item color"
+msgstr ""
+
+#: config\customizer.php:144
+#: config\customizer.php:206
+#: config\customizer.php:327
+#: config\customizer.php:351
+#: config\meta.php:131
+#: config\meta.php:192
+#: config\meta.php:289
+#: config\meta.php:312
+msgid "Menu current item color"
+msgstr ""
+
+#: config\customizer.php:148
+#: config\customizer.php:210
+#: config\meta.php:135
+#: config\meta.php:196
+msgid "Submenu background color"
+msgstr ""
+
+#: config\customizer.php:151
+#: config\customizer.php:213
+#: config\meta.php:138
+#: config\meta.php:199
+msgid "Submenu border color"
+msgstr ""
+
+#: config\customizer.php:154
+#: config\customizer.php:216
+#: config\meta.php:141
+#: config\meta.php:202
+msgid "Submenu shadow color"
+msgstr ""
+
+#: config\customizer.php:157
+#: config\customizer.php:219
+#: config\meta.php:144
+#: config\meta.php:205
+msgid "Submenu shadow blur, px"
+msgstr ""
+
+#: config\customizer.php:162
+#: config\customizer.php:224
+#: config\customizer.php:330
+#: config\customizer.php:354
+#: config\meta.php:149
+#: config\meta.php:210
+#: config\meta.php:292
+#: config\meta.php:315
+msgid "Submenu item color"
+msgstr ""
+
+#: config\customizer.php:165
+#: config\customizer.php:227
+#: config\meta.php:152
+#: config\meta.php:213
+msgid "Submenu hover item color"
+msgstr ""
+
+#: config\customizer.php:168
+#: config\customizer.php:230
+#: config\customizer.php:333
+#: config\customizer.php:357
+#: config\meta.php:155
+#: config\meta.php:216
+#: config\meta.php:295
+#: config\meta.php:318
+msgid "Submenu current item color"
+msgstr ""
+
+#: config\customizer.php:172
+#: config\customizer.php:234
+#: config\meta.php:159
+#: config\meta.php:220
+msgid "Bar button background color"
+msgstr ""
+
+#: config\customizer.php:175
+#: config\customizer.php:237
+#: config\meta.php:162
+#: config\meta.php:223
+msgid "Bar button border color"
+msgstr ""
+
+#: config\customizer.php:178
+#: config\customizer.php:240
+#: config\meta.php:165
+#: config\meta.php:226
+msgid "Bar button text color"
+msgstr ""
+
+#: config\customizer.php:181
+#: config\customizer.php:243
+msgid "Bar button hover background color"
+msgstr ""
+
+#: config\customizer.php:184
+#: config\customizer.php:246
+msgid "Bar button hover border color"
+msgstr ""
+
+#: config\customizer.php:187
+#: config\customizer.php:249
+msgid "Bar button hover text color"
+msgstr ""
+
+#: config\customizer.php:191
+#: config\customizer.php:337
+#: config\customizer.php:410
+#: config\customizer.php:544
+#: config\customizer.php:592
+#: config\customizer.php:641
+#: config\customizer.php:699
+#: config\customizer.php:776
+#: config\customizer.php:826
+#: config\customizer.php:863
+msgid "Dark Scheme"
+msgstr ""
+
+#: config\customizer.php:253
+msgid "Mobile Menu"
+msgstr ""
+
+#: config\customizer.php:289
+#: config\meta.php:267
+msgid "Bar behavior"
+msgstr ""
+
+#: config\customizer.php:291
+#: config\meta.php:270
+msgid "Static"
+msgstr ""
+
+#: config\customizer.php:292
+#: config\meta.php:271
+msgid "Sticky"
+msgstr ""
+
+#: config\customizer.php:296
+msgid "Burger menu"
+msgstr ""
+
+#: config\customizer.php:298
+#: inc\plugins\visual-composer\extends\vc_icon.php:12
+#: inc\plugins\visual-composer\extends\vc_icon.php:29
+msgid "Icon"
+msgstr ""
+
+#: config\customizer.php:299
+msgid "Text"
+msgstr ""
+
+#: config\customizer.php:300
+msgid "Text & icon"
+msgstr ""
+
+#: config\customizer.php:303
+msgid "Custom burger menu text"
+msgstr ""
+
+#: config\customizer.php:304
+msgid "Burger text right margin, px"
+msgstr ""
+
+#: config\customizer.php:308
+msgid "Vertical space between menu items"
+msgstr ""
+
+#: config\customizer.php:318
+#: config\customizer.php:342
+#: config\meta.php:280
+#: config\meta.php:303
+msgid "Burger menu icon color"
+msgstr ""
+
+#: config\customizer.php:321
+#: config\customizer.php:345
+#: config\meta.php:283
+#: config\meta.php:306
+msgid "Burger menu text color"
+msgstr ""
+
+#: config\customizer.php:369
+msgid "Main Settings"
+msgstr ""
+
+#: config\customizer.php:370
+msgid "General"
+msgstr ""
+
+#: config\customizer.php:372
+msgid "Selection background color"
+msgstr ""
+
+#: config\customizer.php:373
+msgid "Selection text color"
+msgstr ""
+
+#: config\customizer.php:374
+#: config\customizer.php:751
+#: config\customizer.php:805
+#: config\customizer.php:842
+msgid "Default link style"
+msgstr ""
+
+#: config\customizer.php:376
+#: config\customizer.php:382
+#: config\customizer.php:753
+#: config\customizer.php:759
+#: config\customizer.php:807
+#: config\customizer.php:813
+#: config\customizer.php:844
+#: config\customizer.php:850
+msgid "Undecorated"
+msgstr ""
+
+#: config\customizer.php:377
+#: config\customizer.php:383
+#: config\customizer.php:754
+#: config\customizer.php:760
+#: config\customizer.php:808
+#: config\customizer.php:814
+#: config\customizer.php:845
+#: config\customizer.php:851
+msgid "Underline"
+msgstr ""
+
+#: config\customizer.php:380
+#: config\customizer.php:757
+#: config\customizer.php:811
+#: config\customizer.php:848
+msgid "Hover link style"
+msgstr ""
+
+#: config\customizer.php:386
+msgid "Arrows type"
+msgstr ""
+
+#: config\customizer.php:388
+msgid "Type A"
+msgstr ""
+
+#: config\customizer.php:389
+msgid "Type B"
+msgstr ""
+
+#: config\customizer.php:390
+msgid "Type C"
+msgstr ""
+
+#: config\customizer.php:391
+msgid "Chevron"
+msgstr ""
+
+#: config\customizer.php:392
+msgid "Skip"
+msgstr ""
+
+#: config\customizer.php:393
+msgid "iOS"
+msgstr ""
+
+#: config\customizer.php:394
+msgid "iOS 2"
+msgstr ""
+
+#: config\customizer.php:395
+msgid "iOS Thin"
+msgstr ""
+
+#: config\customizer.php:396
+msgid "Android"
+msgstr ""
+
+#: config\customizer.php:397
+msgid "Android 2"
+msgstr ""
+
+#: config\customizer.php:398
+msgid "Android Circle"
+msgstr ""
+
+#: config\customizer.php:403
+#: config\customizer.php:411
+#: config\customizer.php:460
+#: config\customizer.php:487
+#: config\customizer.php:769
+#: config\customizer.php:780
+#: config\customizer.php:819
+#: config\customizer.php:827
+#: config\customizer.php:856
+#: config\customizer.php:864
+msgid "Text color"
+msgstr ""
+
+#: config\customizer.php:404
+#: config\customizer.php:412
+#: config\customizer.php:771
+#: config\customizer.php:782
+msgid "Link color"
+msgstr ""
+
+#: config\customizer.php:405
+#: config\customizer.php:413
+#: config\customizer.php:772
+#: config\customizer.php:783
+#: config\customizer.php:821
+#: config\customizer.php:829
+#: config\customizer.php:858
+#: config\customizer.php:866
+msgid "Link underline color"
+msgstr ""
+
+#: config\customizer.php:406
+#: config\customizer.php:414
+msgid "Link hover color"
+msgstr ""
+
+#: config\customizer.php:407
+#: config\customizer.php:415
+#: config\customizer.php:774
+#: config\customizer.php:785
+#: config\customizer.php:823
+#: config\customizer.php:831
+#: config\customizer.php:860
+#: config\customizer.php:868
+msgid "Link underline hover color"
+msgstr ""
+
+#: config\customizer.php:408
+#: config\customizer.php:416
+#: config\customizer.php:824
+#: config\customizer.php:832
+#: config\customizer.php:861
+#: config\customizer.php:869
+msgid "Headings color"
+msgstr ""
+
+#: config\customizer.php:419
+msgid "Splash"
+msgstr ""
+
+#: config\customizer.php:420
+msgid "Enable splash"
+msgstr ""
+
+#: config\customizer.php:422
+msgid "Enable progress bar"
+msgstr ""
+
+#: config\customizer.php:423
+msgid "Progress bar height, px"
+msgstr ""
+
+#: config\customizer.php:427
+msgid "Progress bar color"
+msgstr ""
+
+#: config\customizer.php:428
+msgid "Loader icon"
+msgstr ""
+
+#: config\customizer.php:430
+#: config\customizer.php:613
+#: config\customizer.php:621
+#: config\customizer.php:656
+#: config\customizer.php:791
+#: inc\main\menu.php:24
+msgid "None"
+msgstr ""
+
+#: config\customizer.php:431
+msgid "Ball pulse"
+msgstr ""
+
+#: config\customizer.php:432
+msgid "Ball pulse double"
+msgstr ""
+
+#: config\customizer.php:433
+msgid "Wave"
+msgstr ""
+
+#: config\customizer.php:434
+msgid "Wave spread"
+msgstr ""
+
+#: config\customizer.php:435
+msgid "Circle pulse"
+msgstr ""
+
+#: config\customizer.php:436
+msgid "Circle pulse multiple"
+msgstr ""
+
+#: config\customizer.php:437
+msgid "Arc rotate"
+msgstr ""
+
+#: config\customizer.php:438
+msgid "Arc rotate 2"
+msgstr ""
+
+#: config\customizer.php:439
+msgid "Arc rotate double"
+msgstr ""
+
+#: config\customizer.php:440
+msgid "Arc scale"
+msgstr ""
+
+#: config\customizer.php:441
+msgid "Square split"
+msgstr ""
+
+#: config\customizer.php:442
+msgid "Square rotate 3D"
+msgstr ""
+
+#: config\customizer.php:445
+msgid "Loader icon color"
+msgstr ""
+
+#: config\customizer.php:446
+msgid "Custom loader icon"
+msgstr ""
+
+#: config\customizer.php:449
+msgid "Forms"
+msgstr ""
+
+#: config\customizer.php:450
+msgid "Form border width, px"
+msgstr ""
+
+#: config\customizer.php:454
+msgid "Form border radius, px"
+msgstr ""
+
+#: config\customizer.php:459
+msgid "Light scheme"
+msgstr ""
+
+#: config\customizer.php:467
+#: config\customizer.php:494
+msgid "Inner shadow color"
+msgstr ""
+
+#: config\customizer.php:470
+#: config\customizer.php:497
+msgid "Accent color"
+msgstr ""
+
+#: config\customizer.php:471
+#: config\customizer.php:498
+msgid "Placeholder color"
+msgstr ""
+
+#: config\customizer.php:472
+#: config\customizer.php:499
+msgid "Focused text color"
+msgstr ""
+
+#: config\customizer.php:473
+#: config\customizer.php:500
+msgid "Focused background color"
+msgstr ""
+
+#: config\customizer.php:476
+#: config\customizer.php:503
+msgid "Focused border color"
+msgstr ""
+
+#: config\customizer.php:479
+#: config\customizer.php:506
+msgid "Focused shadow color"
+msgstr ""
+
+#: config\customizer.php:482
+#: config\customizer.php:509
+msgid "Focused placeholder color"
+msgstr ""
+
+#: config\customizer.php:486
+msgid "Dark scheme"
+msgstr ""
+
+#: config\customizer.php:514
+msgid "Buttons"
+msgstr ""
+
+#: config\customizer.php:515
+msgid "Button border width, px"
+msgstr ""
+
+#: config\customizer.php:519
+msgid "Button border radius, px"
+msgstr ""
+
+#: config\customizer.php:525
+#: config\customizer.php:545
+msgid "Primary button background"
+msgstr ""
+
+#: config\customizer.php:526
+#: config\customizer.php:546
+msgid "Primary button border"
+msgstr ""
+
+#: config\customizer.php:527
+#: config\customizer.php:547
+msgid "Primary button text"
+msgstr ""
+
+#: config\customizer.php:528
+#: config\customizer.php:548
+msgid "Primary button hover background"
+msgstr ""
+
+#: config\customizer.php:529
+#: config\customizer.php:549
+msgid "Primary button hover border"
+msgstr ""
+
+#: config\customizer.php:530
+#: config\customizer.php:550
+msgid "Primary button hover text"
+msgstr ""
+
+#: config\customizer.php:531
+#: config\customizer.php:551
+msgid "Primary button active background"
+msgstr ""
+
+#: config\customizer.php:532
+#: config\customizer.php:552
+msgid "Primary button active border"
+msgstr ""
+
+#: config\customizer.php:533
+#: config\customizer.php:553
+msgid "Primary button active text"
+msgstr ""
+
+#: config\customizer.php:534
+#: config\customizer.php:554
+msgid "Secondary button background"
+msgstr ""
+
+#: config\customizer.php:535
+#: config\customizer.php:555
+msgid "Secondary button border"
+msgstr ""
+
+#: config\customizer.php:536
+#: config\customizer.php:556
+msgid "Secondary button text"
+msgstr ""
+
+#: config\customizer.php:537
+#: config\customizer.php:557
+msgid "Secondary button hover background"
+msgstr ""
+
+#: config\customizer.php:538
+#: config\customizer.php:558
+msgid "Secondary button hover border"
+msgstr ""
+
+#: config\customizer.php:539
+#: config\customizer.php:559
+msgid "Secondary button hover text"
+msgstr ""
+
+#: config\customizer.php:540
+#: config\customizer.php:560
+msgid "Secondary button active background"
+msgstr ""
+
+#: config\customizer.php:541
+#: config\customizer.php:561
+msgid "Secondary button active border"
+msgstr ""
+
+#: config\customizer.php:542
+#: config\customizer.php:562
+msgid "Secondary button active text"
+msgstr ""
+
+#: config\customizer.php:565
+msgid "Pagination"
+msgstr ""
+
+#: config\customizer.php:566
+msgid "Pagination type"
+msgstr ""
+
+#: config\customizer.php:568
+msgid "Page numbers"
+msgstr ""
+
+#: config\customizer.php:569
+msgid "Next/Previous"
+msgstr ""
+
+#: config\customizer.php:572
+msgid "Next/Previous layout"
+msgstr ""
+
+#: config\customizer.php:580
+#: config\customizer.php:593
+msgid "Page number color"
+msgstr ""
+
+#: config\customizer.php:581
+#: config\customizer.php:594
+msgid "Page number background color"
+msgstr ""
+
+#: config\customizer.php:582
+#: config\customizer.php:595
+msgid "Page number border color"
+msgstr ""
+
+#: config\customizer.php:583
+#: config\customizer.php:596
+msgid "Page number hover color"
+msgstr ""
+
+#: config\customizer.php:584
+#: config\customizer.php:597
+msgid "Page number hover background color"
+msgstr ""
+
+#: config\customizer.php:585
+#: config\customizer.php:598
+msgid "Page number hover border color"
+msgstr ""
+
+#: config\customizer.php:586
+#: config\customizer.php:599
+msgid "Current page number color"
+msgstr ""
+
+#: config\customizer.php:587
+#: config\customizer.php:600
+msgid "Current page number background color"
+msgstr ""
+
+#: config\customizer.php:588
+#: config\customizer.php:601
+msgid "Current page number border color"
+msgstr ""
+
+#: config\customizer.php:589
+#: config\customizer.php:602
+msgid "Next/previous text color"
+msgstr ""
+
+#: config\customizer.php:590
+#: config\customizer.php:603
+msgid "Next/previous hover text color"
+msgstr ""
+
+#: config\customizer.php:607
+msgid "Blog"
+msgstr ""
+
+#: config\customizer.php:608
+msgid "Posts Page"
+msgstr ""
+
+#: config\customizer.php:609
+msgid "For each article, show"
+msgstr ""
+
+#: config\customizer.php:611
+msgid "Full text"
+msgstr ""
+
+#: config\customizer.php:612
+msgid "Excerpt"
+msgstr ""
+
+#: config\customizer.php:616
+msgid "Avatar"
+msgstr ""
+
+#: config\customizer.php:617
+msgid "Author"
+msgstr ""
+
+#: config\customizer.php:618
+msgid "Date"
+msgstr ""
+
+#: config\customizer.php:619
+#: config\customizer.php:789
+msgid "Terms"
+msgstr ""
+
+#: config\customizer.php:622
+#: config\customizer.php:792
+msgid "Categories"
+msgstr ""
+
+#: config\customizer.php:623
+#: config\customizer.php:793
+msgid "Tags"
+msgstr ""
+
+#: config\customizer.php:626
+#: config\customizer.php:788
+msgid "Featured image"
+msgstr ""
+
+#: config\customizer.php:627
+msgid "Read more link"
+msgstr ""
+
+#: config\customizer.php:628
+msgid "Comments link"
+msgstr ""
+
+#: config\customizer.php:631
+#: config\customizer.php:642
+#: config\customizer.php:770
+#: config\customizer.php:781
+msgid "Title color"
+msgstr ""
+
+#: config\customizer.php:632
+#: config\customizer.php:643
+msgid "Title hover color"
+msgstr ""
+
+#: config\customizer.php:633
+#: config\customizer.php:644
+msgid "Term text color"
+msgstr ""
+
+#: config\customizer.php:634
+#: config\customizer.php:645
+msgid "Term background color"
+msgstr ""
+
+#: config\customizer.php:635
+#: config\customizer.php:646
+msgid "Term border color"
+msgstr ""
+
+#: config\customizer.php:636
+#: config\customizer.php:647
+msgid "Term text hover color"
+msgstr ""
+
+#: config\customizer.php:637
+#: config\customizer.php:648
+msgid "Term background hover color"
+msgstr ""
+
+#: config\customizer.php:638
+#: config\customizer.php:649
+msgid "Term border hover color"
+msgstr ""
+
+#: config\customizer.php:639
+#: config\customizer.php:650
+msgid "Post separator color"
+msgstr ""
+
+#: config\customizer.php:653
+msgid "Top Bar"
+msgstr ""
+
+#: config\customizer.php:654
+msgid "Display top bar"
+msgstr ""
+
+#: config\customizer.php:657
+msgid "With categories"
+msgstr ""
+
+#: config\customizer.php:658
+msgid "With tags"
+msgstr ""
+
+#: config\customizer.php:661
+msgid "Top bar type"
+msgstr ""
+
+#: config\customizer.php:663
+msgid "List"
+msgstr ""
+
+#: config\customizer.php:664
+msgid "Dropdown"
+msgstr ""
+
+#: config\customizer.php:667
+msgid "Show search"
+msgstr ""
+
+#: config\customizer.php:671
+#: config\customizer.php:701
+msgid "Top border color"
+msgstr ""
+
+#: config\customizer.php:672
+#: config\customizer.php:702
+msgid "Bottom border color"
+msgstr ""
+
+#: config\customizer.php:673
+#: config\customizer.php:703
+msgid "Top shadow color"
+msgstr ""
+
+#: config\customizer.php:674
+#: config\customizer.php:704
+msgid "Bottom shadow color"
+msgstr ""
+
+#: config\customizer.php:675
+#: config\customizer.php:705
+msgid "Item background color"
+msgstr ""
+
+#: config\customizer.php:678
+#: config\customizer.php:708
+msgid "Item border color"
+msgstr ""
+
+#: config\customizer.php:679
+#: config\customizer.php:709
+msgid "Item color"
+msgstr ""
+
+#: config\customizer.php:680
+#: config\customizer.php:710
+msgid "Item hover background color"
+msgstr ""
+
+#: config\customizer.php:683
+#: config\customizer.php:713
+msgid "Item hover border color"
+msgstr ""
+
+#: config\customizer.php:684
+#: config\customizer.php:714
+msgid "Item hover color"
+msgstr ""
+
+#: config\customizer.php:685
+#: config\customizer.php:715
+msgid "Current item background color"
+msgstr ""
+
+#: config\customizer.php:688
+#: config\customizer.php:718
+msgid "Current item border color"
+msgstr ""
+
+#: config\customizer.php:689
+#: config\customizer.php:719
+msgid "Current item color"
+msgstr ""
+
+#: config\customizer.php:690
+#: config\customizer.php:720
+#: config\customizer.php:724
+msgid "Search background color"
+msgstr ""
+
+#: config\customizer.php:691
+#: config\customizer.php:721
+#: config\customizer.php:725
+msgid "Search border color"
+msgstr ""
+
+#: config\customizer.php:692
+#: config\customizer.php:722
+#: config\customizer.php:726
+msgid "Search shadow color"
+msgstr ""
+
+#: config\customizer.php:693
+#: config\customizer.php:723
+#: config\customizer.php:727
+msgid "Search icon/placeholder color"
+msgstr ""
+
+#: config\customizer.php:694
+msgid "Focused search background color"
+msgstr ""
+
+#: config\customizer.php:695
+msgid "Focused search border color"
+msgstr ""
+
+#: config\customizer.php:696
+msgid "Focused search shadow color"
+msgstr ""
+
+#: config\customizer.php:697
+msgid "Focused search icon/placeholder color"
+msgstr ""
+
+#: config\customizer.php:730
+msgid "Sidebar"
+msgstr ""
+
+#: config\customizer.php:735
+msgid "Widget top/bottom padding, px"
+msgstr ""
+
+#: config\customizer.php:739
+msgid "Widget left/right padding, px"
+msgstr ""
+
+#: config\customizer.php:743
+msgid "Space between widgets, px"
+msgstr ""
+
+#: config\customizer.php:773
+#: config\customizer.php:784
+msgid "Hover link color"
+msgstr ""
+
+#: config\customizer.php:787
+msgid "Single Post Page"
+msgstr ""
+
+#: config\customizer.php:799
+#: config\customizer.php:800
+#: inc\main\tiny-mce.php:114
+msgid "Header"
+msgstr ""
+
+#: config\customizer.php:801
+msgid "Default header for all pages"
+msgstr ""
+
+#: config\customizer.php:820
+#: config\customizer.php:828
+#: config\customizer.php:857
+#: config\customizer.php:865
+msgid "Links color"
+msgstr ""
+
+#: config\customizer.php:822
+#: config\customizer.php:830
+#: config\customizer.php:859
+#: config\customizer.php:867
+msgid "Links hover color"
+msgstr ""
+
+#: config\customizer.php:836
+#: config\customizer.php:837
+#: inc\main\tiny-mce.php:118
+msgid "Footer"
+msgstr ""
+
+#: config\customizer.php:838
+msgid "Default footer for all pages"
+msgstr ""
+
+#: config\meta.php:17
+#: config\meta.php:24
+#: config\meta.php:76
+#: config\meta.php:269
+msgid "Default"
+msgstr ""
+
+#: config\meta.php:32
+msgid "Page Settings"
+msgstr ""
+
+#: config\meta.php:33
+msgid "Page background color"
+msgstr ""
+
+#: config\meta.php:36
+msgid "Header/Footer Settings"
+msgstr ""
+
+#: config\meta.php:37
+msgid "Choose header"
+msgstr ""
+
+#: config\meta.php:40
+msgid "Header background color"
+msgstr ""
+
+#: config\meta.php:41
+msgid "Choose footer"
+msgstr ""
+
+#: config\meta.php:44
+msgid "Footer background color"
+msgstr ""
+
+#: config\meta.php:47
+msgid "General Menu Settings"
+msgstr ""
+
+#: config\meta.php:85
+msgid "Sticky Menu Settings"
+msgstr ""
+
+#: config\meta.php:117
+msgid "General/Sticky Menu Light Scheme Settings"
+msgstr ""
+
+#: config\meta.php:168
+#: config\meta.php:229
+msgid "Bar button hover/current background color"
+msgstr ""
+
+#: config\meta.php:171
+#: config\meta.php:232
+msgid "Bar button hover/current border color"
+msgstr ""
+
+#: config\meta.php:174
+#: config\meta.php:235
+msgid "Bar button hover/current text color"
+msgstr ""
+
+#: config\meta.php:178
+msgid "General/Sticky Menu Dark Scheme Settings"
+msgstr ""
+
+#: config\meta.php:239
+msgid "Mobile Menu Settings"
+msgstr ""
+
+#: config\meta.php:276
+msgid "Mobile Menu Light Scheme Settings"
+msgstr ""
+
+#: config\meta.php:299
+msgid "Mobile Menu Dark Scheme Settings"
+msgstr ""
+
+#: job_manager\job-application-email.php:10
+#: job_manager\job-application-url.php:10
+msgid "Apply for job"
+msgstr ""
+
+#: job_manager\job-application-email.php:15
+msgid "Toggle mail options"
+msgstr ""
+
+#: job_manager\job-application-email.php:21
+msgid "Mail to"
+msgstr ""
+
+#: job_manager\job-application-email.php:26
+msgid "Gmail"
+msgstr ""
+
+#: job_manager\job-application-email.php:31
+msgid "AOL"
+msgstr ""
+
+#: job_manager\job-application-email.php:36
+msgid "Yahoo"
+msgstr ""
+
+#: job_manager\job-application-email.php:41
+msgid "Outlook"
+msgstr ""
+
+#: parts\search-form.php:2
+#: parts\post\top-bar-search.php:2
+msgid "Search for:"
+msgstr ""
+
+#: parts\search-form.php:8
+#: parts\post\top-bar-search.php:11
+msgid "Type here"
+msgstr ""
+
+#: parts\search-form.php:12
+#: parts\post\top-bar-search.php:15
+msgid "Search"
+msgstr ""
+
+#: inc\main\comments.php:58
+msgid "Log out of this account"
+msgstr ""
+
+#: inc\main\comments.php:73
+msgid "Newer comments"
+msgstr ""
+
+#: inc\main\comments.php:80
+msgid "Older comments"
+msgstr ""
+
+#: inc\main\menu.php:25
+msgid "Button"
+msgstr ""
+
+#: inc\main\menu.php:42
+msgid "Item style"
+msgstr ""
+
+#: inc\main\posts.php:33
+msgid "Newer"
+msgstr ""
+
+#: inc\main\posts.php:40
+msgid "Older"
+msgstr ""
+
+#: inc\main\tiny-mce.php:31
+msgid "Small"
+msgstr ""
+
+#: inc\main\tiny-mce.php:35
+msgid "Marked"
+msgstr ""
+
+#: inc\main\tiny-mce.php:39
+msgid "Uppercase"
+msgstr ""
+
+#: inc\main\tiny-mce.php:44
+msgid "Lowercase"
+msgstr ""
+
+#: inc\main\tiny-mce.php:49
+msgid "Capitalize"
+msgstr ""
+
+#: inc\main\tiny-mce.php:59
+msgid "Left-shifted"
+msgstr ""
+
+#: inc\main\tiny-mce.php:64
+msgid "Unstyled"
+msgstr ""
+
+#: inc\main\tiny-mce.php:69
+msgid "Inline"
+msgstr ""
+
+#: inc\main\tiny-mce.php:79
+msgid "Lead"
+msgstr ""
+
+#: inc\main\tiny-mce.php:84
+msgid "Heading 1 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:89
+msgid "Heading 2 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:94
+msgid "Heading 3 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:99
+msgid "Heading 4 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:104
+msgid "Heading 5 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:109
+msgid "Heading 6 view"
+msgstr ""
+
+#: inc\main\tiny-mce.php:127
+msgid "Muted"
+msgstr ""
+
+#: inc\main\tiny-mce.php:132
+msgid "Primary"
+msgstr ""
+
+#: inc\main\tiny-mce.php:137
+msgid "Success"
+msgstr ""
+
+#: inc\main\tiny-mce.php:142
+msgid "Info"
+msgstr ""
+
+#: inc\main\tiny-mce.php:147
+msgid "Warning"
+msgstr ""
+
+#: inc\main\tiny-mce.php:152
+msgid "Danger"
+msgstr ""
+
+#: parts\entry\comments.php:15
+msgid "One response"
+msgstr ""
+
+#: parts\entry\comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: parts\entry\pagination.php:26
+msgid "Previous"
+msgstr ""
+
+#: parts\entry\pagination.php:27
+msgid "Next"
+msgstr ""
+
+#: parts\navbar\toggle.php:17
+msgid "Toggle navigation"
+msgstr ""
+
+#: parts\navbar\toggle.php:26
+msgid "Menu"
+msgstr ""
+
+#: parts\post\top-bar-terms.php:39
+#: parts\post\top-bar-terms.php:58
+msgid "Latest Articles"
+msgstr ""
+
+#: parts\post\top-bar-terms.php:55
+msgid "Posts categories"
+msgstr ""
+
+#: parts\entry\default\comments-link.php:6
+msgid "Leave a Comment"
+msgstr ""
+
+#: parts\entry\default\meta.php:20
+msgid "By"
+msgstr ""
+
+#: parts\entry\default\meta.php:32
+msgid "on"
+msgstr ""
+
+#: parts\entry\default\meta.php:34
+msgid "On"
+msgstr ""
+
+#: parts\post\default\after-content.php:18
+msgid "Read more"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_column.php:12
+#: inc\plugins\visual-composer\extends\vc_row.php:13
+msgid "Color scheme"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_column.php:15
+#: inc\plugins\visual-composer\extends\vc_row.php:16
+msgid "Auto"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_column.php:16
+#: inc\plugins\visual-composer\extends\vc_row.php:17
+msgid "Light"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_column.php:17
+#: inc\plugins\visual-composer\extends\vc_row.php:18
+msgid "Dark"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_icon.php:24
+#: inc\plugins\visual-composer\extends\vc_icon.php:41
+msgid "Select icon from library."
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_icon.php:50
+msgid "Ionicons"
+msgstr ""
+
+#: inc\plugins\visual-composer\extends\vc_icon.php:51
+msgid "Elegant Themes 100 Line"
+msgstr ""
+
+#: inc\namespace\Openmarco\Seriously\Service\Page.php:38
+msgid "Latest Posts"
+msgstr ""
+
+#: inc\namespace\Openmarco\Seriously\Service\Page.php:44
+msgid "Not Found"
+msgstr ""

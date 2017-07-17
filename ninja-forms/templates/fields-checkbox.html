@@ -1,0 +1,7 @@
+<script id="tmpl-nf-field-checkbox" type="text/template">
+	<label class="custom-control custom-checkbox">
+		<input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} custom-control-input nf-element" type="checkbox" value="1" {{{ data.maybeDisabled() }}}{{{ data.maybeChecked() }}}>
+		<span class="custom-control-indicator"></span>
+		<span class="custom-control-description">{{{ data.label }}}</span>
+	</label>
+</script>

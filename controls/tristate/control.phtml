@@ -1,0 +1,27 @@
+<?php
+
+namespace Openmarco\Seriously\std;
+
+/**@var array $attr */
+
+use Openmarco\Seriously\Control\Control;
+
+if ($attr[ATTR_VALUE] === true) {
+	$value = 'true';
+} else {
+	$value = $attr[ATTR_VALUE] === false ? 'false' : 'null';
+}
+
+?>
+
+<select<?php Control::attributes($attr); ?>>
+	<option value=""<?php selected($value, 'null') ?>>
+		<?php esc_html_e('Default', 'seriously') ?>
+	</option>
+	<option value="data@@true"<?php selected($value, 'true') ?>>
+		<?php esc_html_e('Yes', 'seriously') ?>
+	</option>
+	<option value="data@@false"<?php selected($value, 'false') ?>>
+		<?php esc_html_e('No', 'seriously') ?>
+	</option>
+</select>

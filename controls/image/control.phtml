@@ -1,0 +1,33 @@
+<?php
+
+namespace Openmarco\Seriously\std;
+
+/**@var array $attr */
+
+use Openmarco\Seriously\Control\Control;
+use Openmarco\Seriously\Html\Helpers;
+use Openmarco\Seriously\Service\Image;
+
+$id = $attr[ATTR_VALUE];
+
+?>
+
+<div class="om-cc-image-preview" data-om-cc-image-preview>
+	<input<?php Control::attributes($attr); ?> type="hidden"/>
+	<div class="thumbnail">
+		<?php if (Image::exists($id)) : ?>
+			<?php
+			$thumbnail  = Image::getThumbnail($id, [150, 150]);
+			$attributes = [
+				'src'   => esc_url($thumbnail['url']),
+				'style' => "width:{$thumbnail['width']}px",
+				'alt'   => Image::getAlt($attr[ATTR_VALUE])
+			];
+			?>
+			<i class="dashicons dashicons-no-alt remove"></i>
+			<img<?php Helpers::attributes($attributes) ?> />
+		<?php else : ?>
+			<span class="add-img">Add image</span>
+		<?php endif ?>
+	</div>
+</div>
